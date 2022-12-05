@@ -1,6 +1,6 @@
 
 <h1 align=center>mohd saad</h1> 
-<p align=center>Get Geeked out by Geeky, a personal Hugo blog theme that is fully responsive and super-fast.</p>
+<p align=center>welcome to my blog for cyber security purpose</p>
 <h2 align="center"><a target="_blank" href="https://demo.statichunt.com/geeky-hugo/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.statichunt.com%2Fgeeky-hugo%2F&form_factor=desktop">Page Speed (85%)</a> </h2>
 
 
